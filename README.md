@@ -1,3 +1,9 @@
+# CuppyCake 
+### This is a personal e-commerce project for NesaByte
+This is designed using Adobe XD
+
+![](https://media.discordapp.net/attachments/766377851510980628/965818103860719666/unknown.png?width=385&height=386)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
