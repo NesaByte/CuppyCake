@@ -1,10 +1,14 @@
 import { Home } from "./Components/Home/Home";
 import logo from './logo.svg';
 import './App.css';
+import { CuppyCake } from "./Components/CuppyCake/CuppyCake";
 
 function App() {
   return (
-    <Home />
+    <div>
+      <Home />
+    <CuppyCake />
+    </div>
     /*
             <div className="App">
       <header className="App-header">

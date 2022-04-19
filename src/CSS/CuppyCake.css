@@ -1,0 +1,27 @@
+.bRed {
+    border-style: solid;
+    border-color: red;
+}
+
+.cuppy-box {
+    margin: auto;
+    width: 80%;
+     border: 3px solid green; 
+    padding: 10px; 
+
+}
+
+ .cuppy-box h1 {
+    display: inline-block;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: bold;
+    color: #D57F93;
+    font-size:  50px;
+    width:  100%;
+    margin-top: 0%;
+    margin-bottom: 0%; 
+    text-align: center;
+   border: 3px solid green;
+    
+}/**/
